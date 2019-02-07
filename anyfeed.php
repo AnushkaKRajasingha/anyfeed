@@ -25,4 +25,4 @@ require_once 'classes/typeFeeds.php';
  * Initialize plugin
  */
 
-$_anyfeedtype = new scsFeedType();
+$_anyfeedtype = new anyFeedType();

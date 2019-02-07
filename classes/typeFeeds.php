@@ -1,7 +1,7 @@
 <?php
 require_once 'anyfeederreader.php';
 require_once 'simple_html_dom.php';
-class scsFeedType
+class anyFeedType
 {
     function __construct()
     {

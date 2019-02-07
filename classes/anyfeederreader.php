@@ -39,7 +39,7 @@
  *
  * @version 1.0.1
  * @author Anushka Rajasingha
- * @package scsFeedReader
+ * @package anyFeedReader
  * @license GPL
  */
 Class ScsFeedReader{
