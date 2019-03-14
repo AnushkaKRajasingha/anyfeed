@@ -9,5 +9,5 @@ published: true
 post_date: 2019-02-17 20:14:11
 ---
 <!-- wp:shortcode -->
-[wre_search]
+[wre_search show_map="true"]
 <!-- /wp:shortcode -->
